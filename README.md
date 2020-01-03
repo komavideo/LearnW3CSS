@@ -1,6 +1,10 @@
 W3.css学习
 ========
 
+## Youtube讲解视频
+
+https://www.youtube.com/playlist?list=PLliocbKHJNwuJ6kCMiwNSsXijY6UP2cht
+
 ## 课程详细
 
 01. 什么是W3.css？
